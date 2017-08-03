@@ -31,9 +31,6 @@ the user should consider that two crows is significant when it appears in an upt
 df
 ```
 
-
-
-
 <div>
 <table border="1" class="dataframe">
   <thead>
@@ -205,9 +202,6 @@ df
 </table>
 </div>
 
-
-
-
 ```python
 # 赋值开、高、收、低价格，np.array格式。
 open_p = df['开盘价'].values
@@ -219,15 +213,9 @@ close_p = df['收盘价'].values
 open_p
 ```
 
-
-
-
-    array([ 21.2 ,  23.  ,  23.11,  23.58,  23.8 ,  23.6 ,  23.57,  23.39,
-            23.3 ,  23.  ,  23.6 ,  24.19,  24.06,  24.01,  23.65,  23.61,
-            23.76])
-
-
-
+array([ 21.2 ,  23.  ,  23.11,  23.58,  23.8 ,  23.6 ,  23.57,  23.39,
+        23.3 ,  23.  ,  23.6 ,  24.19,  24.06,  24.01,  23.65,  23.61,
+        23.76])
 
 ```python
 # 调用函数
@@ -237,22 +225,13 @@ output = talib.CDL2CROWS(open_p, high_p, low_p, close_p)
 output
 ```
 
-
-
-
     array([   0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
               0, -100,    0,    0,    0,    0], dtype=int32)
-
-
-
 
 ```python
 df['CDL2CROWS'] = output
 df
 ```
-
-
-
 
 <div>
 <table border="1" class="dataframe">
@@ -443,9 +422,3 @@ df
 </table>
 </div>
 
-
-
-
-```python
-
-```
