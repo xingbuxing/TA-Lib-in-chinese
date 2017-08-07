@@ -3,7 +3,7 @@
 ## 前言
 
 * [项目介绍](README.md)
-* [翻译团队介绍](Contributor.md)
+* [翻译团队介绍](source/Introduction/Contributor.md)
 
 ## 入门
 
@@ -12,6 +12,6 @@
 
 ## API
 
-* [模式识别](mo-shi-shi-bie.md)
+* [模式识别](source/API/Pattern Recognition/README.md)
 
 
