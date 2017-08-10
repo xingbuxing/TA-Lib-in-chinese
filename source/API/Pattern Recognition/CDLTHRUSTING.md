@@ -18,7 +18,7 @@
 
 南方航空(600029) 2016年1月18日出现插入线形态
 
-![](/assets/插入线图例.png)
+![](https://github.com/PerseyHuang/TA-Lib-in-chinese/blob/master/assets/%E6%8F%92%E5%85%A5%E7%BA%BF%E5%9B%BE%E4%BE%8B.png)
 
 # 使用案例
 
