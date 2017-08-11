@@ -1,6 +1,6 @@
 # CDLIDENTICAL3CROWS
 
-中文名称： 三只乌鸦
+中文名称： 三胞胎乌鸦
 
 用法：三胞胎乌鸦信号比三只乌鸦信号表现出更多的惊慌卖出,预示着市场趋势有一个更大的反转。
 
@@ -85,10 +85,9 @@ df
       <td>13.88</td>
       <td>13.90</td>
     </tr>
+    
     <tr>
-    ···········
-    </tr>
-    <tr>
+    	 ·······	
       <th>5408</th>
       <td>1993-11-12</td>
       <td>11.50</td>
@@ -170,6 +169,9 @@ signal
 df['signal'] = signal
 df = df.loc[df['signal'] != 0]
 df
+"""
+date          open  high  low  close  signal
+1995-05-10    6.7   6.95  6.6  6.65    -100
+"""
 ```
-		date       open  high  low  close  signal
-5197  1995-05-10    6.7  6.95  6.6   6.65    -100
+		
