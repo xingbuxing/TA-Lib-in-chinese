@@ -18,7 +18,7 @@
 
 ## 图例
 
-![MorningDojiStar](/assets/morningDojiStar.JPG)
+![MorningDojiStar](/assets/CLDmorningDojiStar.JPG)
 
 ## 使用案例
 
