@@ -6,7 +6,7 @@
 
 调用方法：talib.CDLMORNINGDOJISTAR(open, high, low, close [, penetration=?])
 
-输出：*TBD*
+输出：0代表不符合K线形态，100表示符合形态
 
 ## 指标介绍
 
