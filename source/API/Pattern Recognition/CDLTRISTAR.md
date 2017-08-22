@@ -17,8 +17,8 @@
 2.三根星线排列近似水平状态，且三根星线的均上下影线较长，实体部分较小
 
 # 图例
+![三星形态](/assets/三星形态.png)
 
-![三星线图例]('https://raw.githubusercontent.com/PerseyHuang/TA-Lib-in-chinese/master/assets/%E6%8F%92%E5%85%A5%E7%BA%BF%E5%9B%BE%E4%BE%8B.png')
 
 
 
