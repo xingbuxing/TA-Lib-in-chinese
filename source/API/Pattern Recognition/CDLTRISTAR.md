@@ -18,7 +18,7 @@
 
 # 图例
 
-![三星线图例]('https://github.com/PerseyHuang/TA-Lib-in-chinese/blob/master/assets/%E6%8F%92%E5%85%A5%E7%BA%BF%E5%9B%BE%E4%BE%8B.png?raw=true')
+![三星线图例]('https://raw.githubusercontent.com/PerseyHuang/TA-Lib-in-chinese/master/assets/%E6%8F%92%E5%85%A5%E7%BA%BF%E5%9B%BE%E4%BE%8B.png')
 
 
 
