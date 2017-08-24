@@ -1,4 +1,3 @@
-
 # CDLEVENINGSTAR
 
 # 指标概述
@@ -7,7 +6,9 @@
 
 用法：暮星永远是看跌信号。虽然本指标不强调趋势，但若在上涨趋势中出现暮星，尤其需要注意。
 
-调用方法：talib.CDLEVENINGSTAR(open, high, low, close, penetration=0)
+调用方法：talib.CDLEVENINGSTAR(open, high, low, close)
+
+可选参数：penetration=0.3，一根k线在另一根k线范围内的渗透百分比
 
 输出：0代表不符合k线形态，-100代表符合。
 

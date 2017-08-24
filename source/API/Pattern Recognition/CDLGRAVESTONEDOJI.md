@@ -1,4 +1,3 @@
-
 # CDLGRAVESTONEDOJI
 
 # 指标概述
@@ -7,7 +6,7 @@
 
 用法：墓碑十字线的效果需要结合趋势考虑，常被认为是趋势反转信号。
 
-调用方法：CDLGRAVESTONEDOJI(open, high, low, close)
+调用方法：talib.CDLGRAVESTONEDOJI(open, high, low, close)
 
 输出：符合形态输出100，不符合输出0（注意，虽然输出是正的，但并不代表该信号看涨）。
 
