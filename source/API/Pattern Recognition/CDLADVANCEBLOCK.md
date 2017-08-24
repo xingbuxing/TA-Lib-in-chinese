@@ -2,7 +2,7 @@
 * 函数翻译：灵峤（GitHub/Wechat：[bitbyte27](https://github.com/bitbyte27)）
 
 ## 指标概述
-中文名称：Advance Block 推进块（意译：大敌当前）。<br>
+中文名称：Advance Block 推进块（意译：三阳上影，强弩之末）。<br>
 用法：该指标是一个看跌的指标，特别是在上升趋势中，出现该指标，说明上涨乏力，要及时减仓，以避风险。<br>
 调用方法：talib.CDLADVANCEBLOCK(open, high, low, close)<br>
 输出：-1代表不符合k线形态，-100表示符合形态。<br>
