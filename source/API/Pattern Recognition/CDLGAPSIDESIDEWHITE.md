@@ -1,4 +1,3 @@
-
 # CDLGAPSIDESIDEWHITE
 
 # 指标概述
