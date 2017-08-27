@@ -20,6 +20,7 @@
 
 ![](/assets/CDL2CROWS_sz000001.png)
 
+上图中最后3根K线，即为CDL2CROWS
 
 ## 使用案例
 
