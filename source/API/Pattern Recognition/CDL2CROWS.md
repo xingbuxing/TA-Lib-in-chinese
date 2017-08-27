@@ -18,7 +18,7 @@
 
 ## 图例
 
-![](TA-Lib-in-chinese/assets/CDL2CROWS sz000001.png)
+![](assets/CDL2CROWS sz000001.png)
 
 
 
