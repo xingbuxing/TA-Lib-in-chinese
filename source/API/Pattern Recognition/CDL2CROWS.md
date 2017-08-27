@@ -18,7 +18,6 @@
 
 ## 图例
 
-![](/assets/CDL2CROWS sz000001.png)
 
 
 
