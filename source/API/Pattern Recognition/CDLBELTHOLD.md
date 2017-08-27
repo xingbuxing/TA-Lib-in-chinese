@@ -1,5 +1,4 @@
 ## CDLBELTHOLD
-* 函数翻译：灵峤（GitHub/Wechat：[bitbyte27](https://github.com/bitbyte27)）
 
 ## 指标概述
 中文名称：Belt-hold 捉腰带线（意译：光脚阳与光头阴）。<br>
