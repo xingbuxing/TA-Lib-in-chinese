@@ -18,7 +18,7 @@
 
 ## 图例
 
-![morningstar](/assets/CDLMORNINGSTAR_sh600000.PNG)
+![morningstar](/assets/CDLMORNINGSTAR_sh600000.png)
 
 ## 使用案例
 

@@ -16,7 +16,7 @@
 
 ## 图例
 
-![onneck](/assets/CDLONNECK_sh600000.PNG)
+![onneck](/assets/CDLONNECK_sh600000.png)
 
 ## 使用案例
 

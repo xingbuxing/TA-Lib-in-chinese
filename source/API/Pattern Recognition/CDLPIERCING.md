@@ -16,7 +16,7 @@
 
 ## 图例
 
-![piercing](/assets/CDLPIERCING_sh600000.PNG)
+![piercing](/assets/CDLPIERCING_sh600000.png)
 
 ## 使用案例
 
