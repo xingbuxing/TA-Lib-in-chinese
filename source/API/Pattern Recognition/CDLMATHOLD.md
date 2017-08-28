@@ -22,7 +22,7 @@
 
 ## 图例
 
-![MatHold](/assets/CDLMATHOLD_sh600000.PNG)
+![MatHold](/assets/CDLMATHOLD_sh600000.png)
 
 ## 使用案例
 
