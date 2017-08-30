@@ -18,11 +18,8 @@
 
 ## 图例
 
-<<<<<<< HEAD
+
 ![CDLUPSIDEGAP2CROWS图例](/assets/CDLUPSIDEGAP2CROWS图例.png)
-=======
-[![CDLUPSIDEGAP2CROWS](/assets/CDLUPSIDEGAP2CROWS图例.png)]
->>>>>>> 92010a923db9d7316d80a62f433d2bffeaa58892
 
 ## 使用案例
 
