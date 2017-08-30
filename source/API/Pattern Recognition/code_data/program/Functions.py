@@ -9,6 +9,7 @@ import pandas as pd  # 导入pandas，我们一般为pandas取一个别名叫做
 import os
 from matplotlib.finance import candlestick2_ohlc
 import matplotlib.pyplot as plt
+import matplotlib.patches as patches
 import numpy as np
 
 
@@ -17,7 +18,7 @@ def import_stock_data(stock_code, other_columns=[]):
     """
     导入在data/input_data/stock_data下的股票数据。
     :param stock_code: 股票数据的代码，例如'sh600000'
-    :param other_columns: 若为默认值，只导入以下基础字段：'交易日期', '股票代码', '开盘价', '最高价', '最低价', '收盘价', '涨跌幅', 
+    :param other_columns: 若为默认值，只导入以下基础字段：'交易日期', '股票代码', '开盘价', '最高价', '最低价', '收盘价', '涨跌幅',
     '成交额'。
     若不为默认值，会导入除基础字段之外其他指定的字段
     :return:
@@ -80,7 +81,7 @@ def get_stock_code_list_in_one_dir(path):
 
 
 # 作图
-def plot_candle_chart(df, pic_name='candle_chart'):
+def plot_candle_chart(df, rectangle_num, pic_name='candle_chart'):
 
     # 对数据进行整理
     df.set_index(df['交易日期'], drop=True, inplace=True)
@@ -92,6 +93,18 @@ def plot_candle_chart(df, pic_name='candle_chart'):
 
     fig, ax = plt.subplots()
 
+    # 在图内框出相关k线
+    rectangle_y = float(df['最低价'].tail(rectangle_num).min())
+    ax.add_patch(
+        patches.Rectangle(
+            (10 - rectangle_num - 0.5, rectangle_y),                        # (x,y)
+            rectangle_num,                                                  # 宽
+            float(df['最高价'].tail(rectangle_num).max()) - rectangle_y,     # 高
+            fill=False,
+            edgecolor="red"
+        )
+    )
+
     candlestick2_ohlc(ax, df['开盘价'].values, df['最高价'].values, df['最低价'].values, df['收盘价'].values,
                       width=0.6, colorup='r', colordown='g', alpha=1)
 
@@ -100,7 +113,7 @@ def plot_candle_chart(df, pic_name='candle_chart'):
 
     plt.title(pic_name)
 
-    plt.subplots_adjust(left=0.09, bottom=0.20, right=0.94, top=0.90, wspace=0.2, hspace=0)
+    plt.subplots_adjust(left=0.09, bottom=0.25, right=0.94, top=0.90, wspace=0.2, hspace=0)
 
     # 保存数据
     plt.savefig(pic_name+'.png')
