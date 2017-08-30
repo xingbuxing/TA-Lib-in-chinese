@@ -1,4 +1,4 @@
-# TA-Lib-in-chinese 中文版TA-Lib库使用教程
+[](source/API)# TA-Lib-in-chinese 中文版TA-Lib库使用教程
 
 ## 项目背景
 [TA-lib](http://www.ta-lib.org)是一个著名的技术分析库，高效实现了上百种常用的技术指标。在国外比较流行，但是缺乏可用的中文文档，导致在国内使用的人还不是很多。
