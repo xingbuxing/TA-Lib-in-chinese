@@ -34,4 +34,6 @@ print pattern_df
 index_num = pattern_df.index[-1]
 candle_num = 10
 df = df.iloc[index_num-candle_num+1:index_num+1]
-Functions.plot_candle_chart(df, pattern_name + ' ' + code)
+# Functions.plot_candle_chart(df, pattern_name + ' ' + code)
+# 根据相关指标需要框出的k线数量确定 rectangle_num 的值
+Functions.plot_candle_chart(df, rectangle_num=1, pic_name=pattern_name + ' ' + code)
