@@ -18,7 +18,7 @@
 
 ## 图例
 
-![CDLUPSIDEGAP2CROWS](/assets/CDLUPSIDEGAP2CROWS图例.png)
+![CDLUPSIDEGAP2CROWS图例](/assets/CDLUPSIDEGAP2CROWS图例.png)
 
 ## 使用案例
 
