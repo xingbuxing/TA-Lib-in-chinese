@@ -26,7 +26,7 @@
 
 ## 图例
 
-![CDLXSIDEGAP3METHODS图例]('/assets/CDLXSIDEGAP3METHODS图例.png')
+![CDLXSIDEGAP3METHODS图例](/assets/CDLXSIDEGAP3METHODS图例.png)
 
 ## 使用案例
 
