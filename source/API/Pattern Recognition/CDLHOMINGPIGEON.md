@@ -13,7 +13,7 @@
 二日 K 线模式，与母子线类似，不同的的是二日 K 线颜色相同，第二日最高价、最低价都在第一日实体之内
 
 ## 图例
-![](/assets/homingpigeon.png)
+![](/assets/CDLHOMINGPIGEON.png)
 
 ## 使用案例
 
