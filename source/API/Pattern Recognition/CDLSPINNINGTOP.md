@@ -18,7 +18,7 @@
 
 ## 图例
 
-![](TA-Lib-in-chinese/assets/CDLSPINNINGTOP_sh600063.png)
+![](/assets/CDLSPINNINGTOP_sh600063.png)
 
 ## 使用案例
 
