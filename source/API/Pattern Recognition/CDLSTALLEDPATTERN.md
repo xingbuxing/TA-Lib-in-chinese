@@ -21,7 +21,7 @@
 
 ## 图例
 
-！[](TA-Lib-in-chinese/assets/CDLSTALLEDPATTERN_sh600063.png)
+![](/assets/CDLSTALLEDPATTERN_sh600063.png)
 
 ## 使用案例
 

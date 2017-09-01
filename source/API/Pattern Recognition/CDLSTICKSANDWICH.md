@@ -19,7 +19,7 @@
 
 ## 图例
 
-！[](TA-Lib-in-chinese/assets/CDLSTICKSANDWICH_sh600063.png)
+！[](/assets/CDLSTICKSANDWICH_sh600063.png)
 
 ## 使用案例
 

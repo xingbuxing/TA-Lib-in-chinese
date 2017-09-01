@@ -29,7 +29,7 @@
 
 ## 图例
 
-！[](TA-Lib-in-chinese/assets/CDLTASUKIGAP_sh600063.png)
+！[](/assets/CDLTASUKIGAP_sh600063.png)
 
 ## 使用案例
 
