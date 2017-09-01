@@ -21,7 +21,7 @@
 
 ## 图例
 
-！[](/assets/CDLTAKURI_sh600063.png)
+![](/assets/CDLTAKURI_sh600063.png)
 
 ## 使用案例
 
