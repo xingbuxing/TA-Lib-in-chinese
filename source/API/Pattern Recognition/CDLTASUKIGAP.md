@@ -29,7 +29,7 @@
 
 ## 图例
 
-！[](/assets/CDLTASUKIGAP_sh600063.png)
+![](/assets/CDLTASUKIGAP_sh600063.png)
 
 ## 使用案例
 
